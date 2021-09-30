@@ -6,7 +6,6 @@
     <div class="d-flex align-item-center">
       <div class="text-center p-2">
         {{ pageNum }}
-        <!-- <input type="text" v-model="pageNum" class="page-num d-block" /> -->
       </div>
       <div class="text-center p-2">/</div>
       <div class="text-center p-2">{{ totalPages }}</div>
@@ -49,9 +48,6 @@ export default {
   width: 40%;
 }
 .arrow-btn {
-  /* width: 50px;
-  height: 50px;
-  border-radius: 50%; */
   outline: none;
   border: 0;
   background: none;

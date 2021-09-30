@@ -152,7 +152,6 @@ export default {
 }
 .search-container {
   width: 100%;
-  /* background: linear-gradient(#b82116, #b82116); */
 }
 .search-form {
   width: 80%;

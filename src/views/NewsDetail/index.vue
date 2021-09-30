@@ -68,7 +68,6 @@ export default {
 }
 .author-box {
   color: rgb(155, 154, 154);
-  /* font-size: 14px; */
 }
 .image {
   width: 100%;
@@ -83,7 +82,6 @@ export default {
 @media (max-width: 576px) {
   .news-container {
     width: 90%;
-    /* padding:10px */
   }
   .image {
     width: 100%;

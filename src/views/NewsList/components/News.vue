@@ -12,7 +12,6 @@
         <div>{{ newsInfo.publishedAt.split('T')[0] }}</div>
       </div>
       <p class="card-text py-2" v-html="newsInfo.description"></p>
-      <!-- <a href="#" class="btn btn-primary">Read more</a> -->
     </div>
   </div>
 </template>
